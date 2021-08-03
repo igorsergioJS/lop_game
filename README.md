@@ -5,4 +5,4 @@ Desenvolvido em outubro de 2018 para o projeto final da disciplina de Lógica de
 # Desenvolvedores:
 
 **Igor Sérgio de França Correia** <br>
-***William Brenner da Silva Ferreira** <br>
+**William Brenner da Silva Ferreira** <br>
