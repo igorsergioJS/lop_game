@@ -4,5 +4,5 @@ Desenvolvido em outubro de 2018, para o projeto final da disciplina de Lógica d
 
 # Desenvolvedores:
 
--Igor Sérgio de França Correia
--William Brenner da Silva Ferreira
+*Igor Sérgio de França Correia
+*William Brenner da Silva Ferreira
